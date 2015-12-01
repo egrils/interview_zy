@@ -23,7 +23,7 @@
 我们每天打开浏览器浏览网页，这网页大多就是用HTML编写的。
 HTML是英文Hyper Text Mark-up Language(超文本标记语言)的缩写。
 HTML用自己的语法规则，来表示比“文本”更丰富的意义，比如图片，表格，链接等。
-### **HTML大致发展流程图**
+### **HTML大致发展流程图**[^footnote]
 ```seq
 Note left of dtd: 由W3C组织\n（甲骨文、sun、网景、IBM\n等好多公司联合创立的）\n定义标准
 dtd->xhml:定义XML文件规范和标准
@@ -110,3 +110,5 @@ html5-->网页:
 <h4>这是标题 4</h4>
 <h5>这是标题 5</h5>
 <h6>这是标题 6</h6>
+---
+[^footnote]: https://www.zybuluo.com/mdeditor#231279
