@@ -15,7 +15,7 @@
 ### **目标**
 #### 给技术小白写HTML初级教程（*包括简单的标签*）
 ### **教程**
-#### *原稿在另一网站，略有不同，请使用chrome查看，地址：*<a>https://www.zybuluo.com/mdeditor#231279</a>
+#### *原稿在另一网站，略有不同，请使用chrome查看，地址：*<a>https://www.zybuluo.com/feishuoren/note/231279</a>
 ---
 
 ### **HTML是什么？**
