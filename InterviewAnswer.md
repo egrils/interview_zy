@@ -23,16 +23,10 @@
 我们每天打开浏览器浏览网页，这网页大多就是用HTML编写的。
 HTML是英文Hyper Text Mark-up Language(超文本标记语言)的缩写。
 HTML用自己的语法规则，来表示比“文本”更丰富的意义，比如图片，表格，链接等。
-### **HTML大致发展流程图**[^footnote]
-```seq
-Note left of dtd: 由W3C组织\n（甲骨文、sun、网景、IBM\n等好多公司联合创立的）\n定义标准
-dtd->xhml:定义XML文件规范和标准
-xhml-->html:
-html-->html5:
-dtd->>html:让浏览器去读懂它
-dtd-->>html5:
-html->网页:得到想要的结果
-html5-->网页:
+### **HTML大致发展流程**
+```
+dtd->xml->xhtml->html->html5
+dtd: 定义XML文件规范和标准，让浏览器去识别读懂，它由W3C组织（甲骨文、sun、网景、IBM等好多公司联合创立的）定义标准
 ```
 ### **你会了解到**
 #### 学习HTML后也许你会不断听到css、js等词。不要对这些傻傻分不清楚。比如说你用HTML做了个白娃娃，你想打扮它（比如说变成粉色的有图案的）你就可以用CSS，你想让它动起来做些动作就可以用js.
